@@ -24,7 +24,7 @@
 				display: flex;
 				flex-wrap: wrap;
 				justify-content: space-between;
-				/* flex-direction: column; */
+				align-items: start;
 			}
 			
 			.image-item {
